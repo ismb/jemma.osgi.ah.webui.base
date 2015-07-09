@@ -69,11 +69,13 @@
 			<groupId>org.osgi</groupId>
 			<artifactId>org.osgi.core</artifactId>
 			<version>4.2.0</version>
+			<scope>compile</scope>
 		</dependency>
 		<dependency>
 			<groupId>org.osgi</groupId>
 			<artifactId>org.osgi.compendium</artifactId>
 			<version>4.2.0</version>
+			<scope>compile</scope>
 		</dependency>
 	</dependencies>
 
