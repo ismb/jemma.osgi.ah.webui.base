@@ -25,10 +25,6 @@
 	<packaging>bundle</packaging>
 	<version>2.0.12</version>
 	<name>Web UI Base</name>
-	
-	<properties>
-		<main.dir>${project.parent.basedir}</main.dir>
-	</properties>
 
 	<build>
 		<plugins>
