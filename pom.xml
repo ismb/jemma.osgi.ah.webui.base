@@ -27,7 +27,7 @@
 	<name>Web UI Base</name>
 	
 	<properties>
-	
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<!-- External dependencies version properties -->
 		
 		<org.osgi.compendium.version>4.2.0</org.osgi.compendium.version>
