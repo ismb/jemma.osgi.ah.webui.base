@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1438018155945
-Build-Jdk: 1.7.0_45
-Built-By: bluewind
+Bnd-LastModified: 1438598118781
+Build-Jdk: 1.8.0_45
+Built-By: tomasi
 Bundle-Category: Web UI libs
 Bundle-Classpath: .
 Bundle-ManifestVersion: 2
