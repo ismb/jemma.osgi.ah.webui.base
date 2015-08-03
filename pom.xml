@@ -28,6 +28,8 @@
 	
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<!-- Internal dependencies version properties -->
+		
 		<!-- External dependencies version properties -->
 		
 		<org.osgi.compendium.version>4.2.0</org.osgi.compendium.version>
